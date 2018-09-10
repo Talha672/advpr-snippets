@@ -3,7 +3,7 @@
  
 Esta extensão adiciona alguns Snippets do robo de testes AdvPR no visual code [VsCode MarketPlace](https://marketplace.visualstudio.com/items?itemName=talha672.advpr-snippets).
 
-Caso vocÃƒÂª encontre algum problema ou queira dar alguma sugestões de melhoria, por favor abra uma issue no [GitHub](https://github.com/talha672/advpr-snippets/issues). 
+Caso você encontre algum problema ou queira dar alguma sugestões de melhoria, por favor abra uma issue no [GitHub](https://github.com/talha672/advpr-snippets/issues). 
 
 # Instalação
 
