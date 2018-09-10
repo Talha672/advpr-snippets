@@ -20,7 +20,7 @@ Caso você encontre algum problema ou queira dar alguma sugestões de melhoria, 
 1. TestSuite
  * **TestSuite** - Modelo Simples de TestSuite com Alteração de parâmetross.
 
-# CÃ³digo
+# Código
 [Github](https://github.com/talha672/advpr-snippets)
 
 ** Enjoy!**
